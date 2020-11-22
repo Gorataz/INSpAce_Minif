@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Alimentation|SchDesignator=Alimentation|FileName=Alimentation.SchDoc|SymbolType=Normal|RawFileName=Alimentation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=IHM|SchDesignator=IHM|FileName=Interface.SchDoc|SymbolType=Normal|RawFileName=Interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Ogive - Expérience|SchDesignator=Ogive - Expérience|FileName=Ogive.SchDoc|SymbolType=Normal|RawFileName=Ogive.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=On-Board Computer|SchDesignator=On-Board Computer|FileName=OBC.SchDoc|SymbolType=Normal|RawFileName=OBC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
